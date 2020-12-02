@@ -11,3 +11,7 @@
 [![segmentfault](https://img.shields.io/badge/segmentfault-@%E8%8B%A5%E5%B7%9D-000000.svg?style=flat-square&logo=Segmentfault)](https://segmentfault.com/blog/lxchuan12)
 [![语雀](https://img.shields.io/badge/语雀-@%E8%8B%A5%E5%B7%9D-000000.svg?style=flat-square&logo=Segmentfault)](https://www.yuque.com/lxchuan12/blog)
 [![github](https://img.shields.io/github/stars/lxchuan12/blog?label=Stars&style=flat-square&logo=GitHub)](https://github.com/lxchuan12/blog)
+
+我运营了公众号【若川视野】，关注回复【pdf】限时获取前端优质书籍pdf。**公众号经常更新，值得你关注学习，每天进步一点点**。
+
+欢迎加我微信`ruochuan12`，拉你进【若川视野前端交流群】，**长期交流学习，经常有福利**~
