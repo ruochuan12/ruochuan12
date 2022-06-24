@@ -2,7 +2,7 @@
 
 **为了能帮助到更多对源码感兴趣、想学会看源码、提升自己前端技术能力的同学**。
 
-**倾力组织了[每周一起学习200行左右的源码共读活动](https://www.yuque.com/ruochuan12/topics/1)，目前有3000多人参与**。感兴趣可以加我微信 [ruochuan12](https://lxchuan12.gitee.io) 进微信群参与。
+**倾力组织了[每周一起学习200行左右的源码共读活动](https://juejin.cn/post/7079706017579139102)，目前有5000多人参与**。感兴趣可以加我微信 [ruochuan12](https://lxchuan12.gitee.io) 进微信群参与。
 
 > 我的博客地址：[https://lxchuan12.gitee.io](https://lxchuan12.gitee.io)，**建议加个书签**，也可以百度搜索[**若川**](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=SE_Pclogo_6ysd4c7a&wd=%E8%8B%A5%E5%B7%9D&oq=%25E4%25BB%258A%25E6%2597%25A5%25E6%2596%25B0%25E9%25B2%259C%25E4%25BA%258B&rsv_pq=d5d2506b003fe4bc&rsv_t=9f60noZ4n6uVgTXKStiYbZUcvyfAkfkMCTUyAQKh6Bb2Kvsfkhq%2FmkhNpAfcTyhz2cKYaBIMw73l&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=1&rsv_sug2=0&rsv_btype=t&inputT=1388&rsv_sug4=1388)，找到我。
 >
