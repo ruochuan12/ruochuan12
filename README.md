@@ -1,10 +1,10 @@
-你好，我是[**若川**](https://lxchuan12.gitee.io)。写有 [《学习源码整体架构系列》](https://juejin.cn/column/6960551178908205093) 20余篇。目前是掘金关注人数最多的专栏，欢迎你的关注。
+你好，我是[**若川**](https://ruochuan12.github.io)。写有 [《学习源码整体架构系列》](https://juejin.cn/column/6960551178908205093) 几十篇。目前是掘金关注人数最多的专栏，欢迎你的关注。
 
 **为了能帮助到更多对源码感兴趣、想学会看源码、提升自己前端技术能力的同学**。
 
-**倾力组织了[每周一起学习200行左右的源码共读活动](https://juejin.cn/post/7079706017579139102)，目前有5000多人参与**。感兴趣[点此扫码加我微信 `ruochuan02` 进源码共读微信群参与](https://juejin.cn/pin/7217386885793595453)。
+**倾力组织了[每周一起学习200行左右的源码共读活动](https://www.yuque.com/ruochuan12/notice/p0)，目前有5000多人参与**。感兴趣[点此扫码加我微信 `ruochuan02` 进源码共读微信群参与](https://juejin.cn/pin/7217386885793595453)。
 
-> 我的博客地址：[https://lxchuan12.gitee.io](https://lxchuan12.gitee.io)，**建议加个书签**，也可以必应/谷歌搜索[**若川**](https://cn.bing.com/search?q=%E8%8B%A5%E5%B7%9D&form=QBLH&sp=-1&pq=%E8%8B%A5%E5%B7%9D&sc=8-2&qs=n&sk=&cvid=1E0CFA8878E149E384504CB8E18847D4&ghsh=0&ghacc=0&ghpl=)，找到我。
+> 我的博客地址：[https://ruochuan12.github.io](https://ruochuan12.github.io)，**建议加个书签**，也可以必应/谷歌搜索[**若川**](https://cn.bing.com/search?q=%E8%8B%A5%E5%B7%9D&form=QBLH&sp=-1&pq=%E8%8B%A5%E5%B7%9D&sc=8-2&qs=n&sk=&cvid=1E0CFA8878E149E384504CB8E18847D4&ghsh=0&ghacc=0&ghpl=)，找到我。
 >
 另外，你可以在以下网站（点击图片跳转）关注我（你的关注是对我的肯定）：<br>
 
