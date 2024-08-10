@@ -22,6 +22,7 @@
 
 ### 联系
 
+[微信号：若川 ruochuan02](https://juejin.cn/pin/7217386885793595453)，欢迎加微信交流，注明昵称-城市-毕业年份，基本来者不拒。<br>
 [掘金@若川](https://juejin.cn/user/1415826704971918)，常在掘金活跃。<br>
 [公众号:若川视野](https://mp.weixin.qq.com/s/nXb2hHMCarInRbHYHcNhVA)，偶尔会有广告。<br>
 [若川的博客](https://ruochuan12.github.io)，基本包含写过的所有文章。<br>
