@@ -30,6 +30,6 @@
 - [github blog](https://github.com/ruochuan12/blog)，基本包含写过的所有文章，欢迎 `star`。<br>
 - [语雀@若川](https://www.yuque.com/lxchuan12/blog)，暂时活跃比较少。<br>
 - [知乎@若川](https://www.zhihu.com/people/lxchuan12)，暂时活跃比较少。<br>
-- [segmentfault@若川](https://segmentfault.com/blog/lxchuan12)，之前常在 `segmentfault` 答疑解惑。
+- [segmentfault@若川](https://segmentfault.com/blog/ruochuan12)，之前常在 `segmentfault` 答疑解惑。
 
 
